@@ -1,15 +1,17 @@
 # Project03-JuicyBreakout
 
 # Project Name
-Context and date
+Project 3 - Juicy Breakout
+03/02/2025
 
-Description
+A game developed for Game Tech Project 3.
 
 ## Implementation
-Which features you included
+Juicy Features:
+
 
 ## References
 
 ## Future Development
 
-## Created by
+## Created by Andrew Grindstaff
